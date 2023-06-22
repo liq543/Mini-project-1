@@ -75,6 +75,8 @@ footer {
     padding: 10px;
     text-align: center;
 }
+
+/* Text and image center */
 .centerimg {
     position:relative;
     display: block;
